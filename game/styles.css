@@ -2,5 +2,7 @@ body {
     background-color: aliceblue
 }
 h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10;
     color: grey
 }
